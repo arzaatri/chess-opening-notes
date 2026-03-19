@@ -1,0 +1,7 @@
+.venv
+images_test
+uv.lock
+vertices.csv
+edges.csv
+images/*
+old
