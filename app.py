@@ -213,6 +213,7 @@ if st.session_state.current_node in edge.index:
         with cols[i]:
             # Need two whitespaces before newline for streamlit to recognize it
             label = f"{row['dst']}  \n{row['added_moves']}"
+            print(label)
             st.button(label, key=f"btn_{row['dst']}", on_click=move_to, args=(row['dst'],), use_container_width=True)
             
 st.markdown('<div style="margin-bottom: 100px;"></div>', unsafe_allow_html=True)

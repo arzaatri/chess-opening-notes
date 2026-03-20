@@ -1,0 +1,55 @@
+src,dst,added_moves
+"Caro-Kann Defense, General","Caro-Kann Defense, Advance Variation",2.d4 d5 3.e5
+"Caro-Kann Defense, General","Caro-Kann Defense, Exchange Variation",2.d4 d5 3.exd5
+"King's Pawn Opening, General","Caro-Kann Defense, General",1...c6
+"Caro-Kann Defense, General","Caro-Kann Defense, Maroczy Variation",2.d4 d5 3.f3
+"Caro-Kann Defense, General","Caro-Kann Defense, Modern Variation",2.d4 d5 3.Nd2
+"Caro-Kann Defense, General","Caro-Kann Defense, Standard, Unorthodox Replies",2.d4 d5 3.Nc3
+"Three Knights Opening, General","Four Knights Game, General",3...Nf6
+"Four Knights Game, General","Four Knights Game, Gunsberg Variation",4.a3
+"Four Knights Game, General","Four Knights Game, Italian Variation",4.Bc4
+"Four Knights Game, General","Four Knights Game, Scotch Variation",4.d4
+"Four Knights Game, General","Four Knights Game, Spanish Variation",4.Bb5
+"French Defense, General","French Defense, Chigorin Variation",2.Qe2
+"King's Pawn Opening, General","French Defense, General",1...e6
+"French Defense, General","French Defense, King's Indian Attack",2.d3
+"French Defense, General","French Defense, Knight Variation",2.Nf3
+"French Defense, General","French Defense, La Bourdonnais Variation",2.f4
+"French Defense, General","French Defense, Normal Variation",2.d4
+"Italian Game, General","Italian Game, Anti-Fried Liver Defense",3...h6
+"King's Knight Opening, Normal Variation","Italian Game, General",3.Bc4
+"Italian Game, General","Italian Game, Hungarian Defense",3...Be7
+"Italian Game, General","Italian Game, Italian Variation",3...Bc5
+"Italian Game, General","Italian Game, Schilling-Kostic Gambit",3...Nd4
+"Italian Game, General","Italian Game, Two Knights Defense",3...Nf6
+"King's Pawn Opening, General","King Pawn Game, General",1...e5
+"King Pawn Game, General","King's Knight Opening, Normal Variation",2.Nf3 Nc6
+Starting Position,"King's Pawn Opening, General",1.e4
+"Queen Pawn Game, Symmetrical Variation","Queen Pawn Game, Colle System",3.e3
+"Queen Pawn Opening, General","Queen Pawn Game, General",1...d5
+"Queen Pawn Game, Symmetrical Variation","Queen Pawn Game, London System",3.Bf4
+"Queen Pawn Game, Zukertort Variation","Queen Pawn Game, Symmetrical Variation",2...Nf6
+"Queen Pawn Game, Symmetrical Variation","Queen Pawn Game, Symmetrical Variation, Pseudo-Catalan",3.g3
+"Queen Pawn Game, Symmetrical Variation","Queen Pawn Game, Torre Attack",3.Bg5
+"Queen Pawn Game, General","Queen Pawn Game, Zukertort Variation",2.Nf3
+Starting Position,"Queen Pawn Opening, General",1.d4
+"King Pawn Game, General","Russian Game, General",2.Nf3 Nf6
+"Russian Game, General","Russian Game, Modern Attack",3.d4
+"Russian Game, General","Russian Game, Three Knights Game",3.Nc3
+"Russian Game, General","Russian Game, Urusov Gambit",3.Bc4
+"King's Pawn Opening, General","Scandinavian Defense, General",1...d5
+"Scandinavian Defense, General","Scandinavian Defense, Mieses-Kotroc Variation",2.exd5 Qxd5
+"Scandinavian Defense, General","Scandinavian Defense, Modern Variation",2.exd5 Nf6
+"Sicilian Defense, General","Sicilian Defense, Alapin Variation, General",2.c3
+"Sicilian Defense, General","Sicilian Defense, Closed Variation",2.Nc3
+"King's Pawn Opening, General","Sicilian Defense, General",1...c5
+"Sicilian Defense, General","Sicilian Defense, Lasker-Dunne Attack",2.g3
+"Sicilian Defense, General","Sicilian Defense, McDonnell Attack",2.f4
+"Sicilian Defense, General","Sicilian Defense, Snyder Variation",2.b3
+"Spanish Game, General","Spanish Game, Classical Variation",3...Bc5
+"Spanish Game, General","Spanish Game, Cozio Defense, General",3...Nge7
+"Spanish Game, General","Spanish Game, Fianchetto Defense",3...g6
+"King's Knight Opening, Normal Variation","Spanish Game, General",3.Bb5
+"Spanish Game, General","Spanish Game, Schliemann Defense",3...f5
+"Spanish Game, General","Spanish Game, Steinitz Defense",3...d6
+"King's Knight Opening, Normal Variation","Three Knights Opening, General",3.Nc3
